@@ -1,4 +1,4 @@
 # cv
-ฝึกใช้ github dakto
+ฝึกใช้ github dak
 # hello
 สวัสดีคัรบ
